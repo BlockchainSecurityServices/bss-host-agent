@@ -4,7 +4,8 @@
 
 ## Cyber Security Platform
 
-* [Product Information](cyber-security-platform/product-information.md)
+* [Product Information](cyber-security-platform/product-information/README.md)
+  * [Features](cyber-security-platform/product-information/features.md)
 * [Change Log](cyber-security-platform/changelog.md)
 * [API](cyber-security-platform/api.md)
 * [F.A.Q](cyber-security-platform/f.a.q.md)

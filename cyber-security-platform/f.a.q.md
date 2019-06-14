@@ -12,5 +12,9 @@ Yes, each tenant will have the ability to create and manage multiple users withi
 
 Yes, please contact us at info@blockchainsecurity.services to arrange payment.
 
+## Do you have an API?
 
+Yes,  we have an API for teams that want to integrate into CI/CD pipelines or integrate with other internal applications.
+
+## 
 

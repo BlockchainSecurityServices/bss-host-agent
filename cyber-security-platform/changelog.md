@@ -4,11 +4,19 @@ description: Change log for Cyber Security Platform Releases
 
 # Change Log
 
+## 0.0.3 - 2019-06-14
+
+### Added
+
+* Extended API methods 
+* Integrated documentation to beta & home website
+* Further UI/UX update to global site based on early participant feedback  
+
 ## 0.0.2 - 2019-06-11
 
 ### Fixed
 
-* Improved performance, utilizing firebase sdk client side features
+* Improved performance, utilising sdk client side features
 
 ### Changed
 
@@ -31,6 +39,4 @@ description: Change log for Cyber Security Platform Releases
 * Viewing Scan Reports 
 * Requesting value added services  \(Pen Test, Secure Code Review, Secure Architecture & Design, Incident Response\)
 * API  baseline 
-
-
 
